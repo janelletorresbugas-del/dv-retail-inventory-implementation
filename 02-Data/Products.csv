@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Supplier,UnitPrice,ReorderLevel,,,
+P001,Premium Rice 5kg,Grocery,Supplier A,320,10,,,
+P002,Coffee 250g,Grocery,Supplier B,180,15,,,
+P003,Bath Soap,Personal Care,Supplier C,75,10,,,
+P004,Shampoo 250ml,Personal Care,Supplier C,145,10,,,
+P005,USB Cable,Electronics,Supplier D,120,8,,,
+P006,Wireless Mouse,Electronics,Supplier D,450,5,,,
+P007,Notebook,Stationery,Supplier E,55,20,,,
+P008,Ballpen,Stationery,Supplier E,25,30,,,s
+P009,Mineral Water 1L,Beverage,Supplier F,35,15,,,
+P010,Biscuits,Grocery,Supplier B,50,20,,,
