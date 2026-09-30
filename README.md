@@ -5,12 +5,16 @@ A fictional software implementation project created to demonstrate my skills in 
 > **Portfolio Simulation:** DV Retail Store is a fictional client created for demonstration purposes. All data used in this project is sample data.
 
 ---
+## Dashboard Preview
+
+![DV Retail Store Inventory Dashboard](07-Screenshots/05_PowerBI_Dashboard.png)
 
 ## Project Overview
 
 **Project Type:** Software Implementation Simulation  
 **Role:** Implementation Specialist / Data Analyst  
 **Client:** DV Retail Store (Fictional)  
+
 
 ### Objective
 
